@@ -1,6 +1,6 @@
 <?php
 	//add composer autoloader
-	require '../../../../vendor/autoload.php';
+	require '../../vendor/autoload.php';
 
 	// working with post requests
 	function post($name){
